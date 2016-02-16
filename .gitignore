@@ -1,0 +1,13 @@
+.directory
+.DS_Store
+*.pyc
+*~
+\#*
+.\#*
+*\(Autosaved\)*
+.ipynb_checkpoints/
+prosperLoanData.csv
+prosperLoan_EDA_cache/
+prosperLoan_EDA_files/
+.RData
+.Rhistory
