@@ -7,5 +7,5 @@ This project is part of the [Machine Learning Engineer Nanodegree](https://www.u
 
 <b>Sources:</b>
 
-- [Variable description](https://github.com/udacity/machine-learning/tree/master/projects/boston_housing#data)
+- [Variable description](https://archive.ics.uci.edu/ml/datasets/Housing)
 - [Project Rubric](https://docs.google.com/document/d/1b3u3HV2xMBAH7SQxdMPzr2QUaBJU8oeiCNdNh3AWLVY/pub?embedded=true)
